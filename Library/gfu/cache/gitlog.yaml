@@ -1,0 +1,1574 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2019-02-23T22:14:36.449-08:00
+  initializedAtString: 2019-02-23T22:01:09.837-08:00
+  log:
+  - commitID: 79bd8a9d93738f0b3970ddce8d6306e52ce268ba
+    mergeA: 
+    mergeB: 
+    authorName: Glorthiar
+    authorEmail: 38994308+Glorthiar@users.noreply.github.com
+    commitEmail: 38994308+Glorthiar@users.noreply.github.com
+    commitName: Glorthiar
+    summary: VSLogs
+    description: VSLogs
+    timeString: 2019-02-23T22:14:17.000-08:00
+    commitTimeString: 2019-02-23T22:14:17.000-08:00
+    changes:
+    - path: Logs\Packages-Update.log
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Logs\Packages-Update.log
+      projectPath: Logs\Packages-Update.log
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: a94fff34be7371d8fb0ab8544d88b7236945116e
+    mergeA: 
+    mergeB: 
+    authorName: Glorthiar
+    authorEmail: 38994308+Glorthiar@users.noreply.github.com
+    commitEmail: 38994308+Glorthiar@users.noreply.github.com
+    commitName: Glorthiar
+    summary: OBJ
+    description: OBJ
+    timeString: 2019-02-23T22:13:40.000-08:00
+    commitTimeString: 2019-02-23T22:13:40.000-08:00
+    changes:
+    - path: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+      projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+      projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+      projectPath: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+      projectPath: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+      projectPath: obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+      projectPath: obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+      projectPath: obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 5172b70c6d3418609840ccc132154e335e91613a
+    mergeA: 
+    mergeB: 
+    authorName: Glorthiar
+    authorEmail: 38994308+Glorthiar@users.noreply.github.com
+    commitEmail: 38994308+Glorthiar@users.noreply.github.com
+    commitName: Glorthiar
+    summary: ProjectSettings
+    description: ProjectSettings
+    timeString: 2019-02-23T22:13:15.000-08:00
+    commitTimeString: 2019-02-23T22:13:15.000-08:00
+    changes:
+    - path: ProjectSettings\AudioManager.asset
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\ProjectSettings\AudioManager.asset
+      projectPath: ProjectSettings\AudioManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\ClusterInputManager.asset
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\ProjectSettings\ClusterInputManager.asset
+      projectPath: ProjectSettings\ClusterInputManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\DynamicsManager.asset
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\ProjectSettings\DynamicsManager.asset
+      projectPath: ProjectSettings\DynamicsManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\EditorBuildSettings.asset
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\EditorSettings.asset
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\ProjectSettings\EditorSettings.asset
+      projectPath: ProjectSettings\EditorSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\GraphicsSettings.asset
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\ProjectSettings\GraphicsSettings.asset
+      projectPath: ProjectSettings\GraphicsSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\InputManager.asset
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\ProjectSettings\InputManager.asset
+      projectPath: ProjectSettings\InputManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\NavMeshAreas.asset
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\ProjectSettings\NavMeshAreas.asset
+      projectPath: ProjectSettings\NavMeshAreas.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\NetworkManager.asset
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\ProjectSettings\NetworkManager.asset
+      projectPath: ProjectSettings\NetworkManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\Physics2DSettings.asset
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\ProjectSettings\Physics2DSettings.asset
+      projectPath: ProjectSettings\Physics2DSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\PresetManager.asset
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\ProjectSettings\PresetManager.asset
+      projectPath: ProjectSettings\PresetManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\ProjectSettings.asset
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\ProjectVersion.txt
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\ProjectSettings\ProjectVersion.txt
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\QualitySettings.asset
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\ProjectSettings\QualitySettings.asset
+      projectPath: ProjectSettings\QualitySettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\TagManager.asset
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\TimeManager.asset
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\ProjectSettings\TimeManager.asset
+      projectPath: ProjectSettings\TimeManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\UnityConnectSettings.asset
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\ProjectSettings\UnityConnectSettings.asset
+      projectPath: ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\VFXManager.asset
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\ProjectSettings\VFXManager.asset
+      projectPath: ProjectSettings\VFXManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: f265726ec16ac0d40c76d2c45e824711f5ce4c73
+    mergeA: 
+    mergeB: 
+    authorName: Glorthiar
+    authorEmail: 38994308+Glorthiar@users.noreply.github.com
+    commitEmail: 38994308+Glorthiar@users.noreply.github.com
+    commitName: Glorthiar
+    summary: Temp
+    description: Temp
+    timeString: 2019-02-23T22:11:36.000-08:00
+    commitTimeString: 2019-02-23T22:11:36.000-08:00
+    changes:
+    - path: Temp\ProcessJobs\1f068db059d5cf0261a3b566803bc6c6.bakert
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Temp\ProcessJobs\1f068db059d5cf0261a3b566803bc6c6.bakert
+      projectPath: Temp\ProcessJobs\1f068db059d5cf0261a3b566803bc6c6.bakert
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\ProcessJobs\bcc7e87fb67d4a4877299dc907268347.bakert
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Temp\ProcessJobs\bcc7e87fb67d4a4877299dc907268347.bakert
+      projectPath: Temp\ProcessJobs\bcc7e87fb67d4a4877299dc907268347.bakert
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: d8bbcbd0717573c37a72aac1ac6c47c4c5d03c68
+    mergeA: 
+    mergeB: 
+    authorName: Glorthiar
+    authorEmail: 38994308+Glorthiar@users.noreply.github.com
+    commitEmail: 38994308+Glorthiar@users.noreply.github.com
+    commitName: Glorthiar
+    summary: Packages
+    description: Packages
+    timeString: 2019-02-23T22:09:47.000-08:00
+    commitTimeString: 2019-02-23T22:09:47.000-08:00
+    changes:
+    - path: Packages\manifest.json
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Packages\manifest.json
+      projectPath: Packages\manifest.json
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: dd12d546747258b53ef027403c983b73ca7cb350
+    mergeA: 
+    mergeB: 
+    authorName: Glorthiar
+    authorEmail: 38994308+Glorthiar@users.noreply.github.com
+    commitEmail: 38994308+Glorthiar@users.noreply.github.com
+    commitName: Glorthiar
+    summary: temp
+    description: temp
+    timeString: 2019-02-23T22:05:03.000-08:00
+    commitTimeString: 2019-02-23T22:05:03.000-08:00
+    changes:
+    - path: .vs\NOLF Fever Dream\v15\Browse.VC.db
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\.vs\NOLF Fever Dream\v15\Browse.VC.db
+      projectPath: .vs\NOLF Fever Dream\v15\Browse.VC.db
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 8b45e3513fe850bdddb003f849f868ab76dcc156
+    mergeA: 
+    mergeB: 
+    authorName: Glorthiar
+    authorEmail: 38994308+Glorthiar@users.noreply.github.com
+    commitEmail: 38994308+Glorthiar@users.noreply.github.com
+    commitName: Glorthiar
+    summary: push some more
+    description: push some more
+    timeString: 2019-02-23T22:02:40.000-08:00
+    commitTimeString: 2019-02-23T22:02:40.000-08:00
+    changes:
+    - path: Assembly-CSharp-Editor-firstpass.csproj
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assembly-CSharp-Editor-firstpass.csproj
+      projectPath: Assembly-CSharp-Editor-firstpass.csproj
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assembly-CSharp.csproj
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assembly-CSharp.csproj
+      projectPath: Assembly-CSharp.csproj
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NOLF Fever Dream.sln
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\NOLF Fever Dream.sln
+      projectPath: NOLF Fever Dream.sln
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 03af149a187de2e0fac5fda0c372bcc6f76228c8
+    mergeA: 
+    mergeB: 
+    authorName: Glorthiar
+    authorEmail: 38994308+Glorthiar@users.noreply.github.com
+    commitEmail: 38994308+Glorthiar@users.noreply.github.com
+    commitName: Glorthiar
+    summary: Push for reals
+    description: "Push for reals\r\n\r\nPushing the game for real"
+    timeString: 2019-02-23T22:01:07.000-08:00
+    commitTimeString: 2019-02-23T22:01:07.000-08:00
+    changes:
+    - path: Assets\3D Models.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models.meta
+      projectPath: Assets\3D Models.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\3D Models\Ammo.prefab
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\Ammo.prefab
+      projectPath: Assets\3D Models\Ammo.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\3D Models\Ammo.prefab.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\Ammo.prefab.meta
+      projectPath: Assets\3D Models\Ammo.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\3D Models\Bullet.fbx
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\Bullet.fbx
+      projectPath: Assets\3D Models\Bullet.fbx
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\3D Models\Bullet.fbx.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\Bullet.fbx.meta
+      projectPath: Assets\3D Models\Bullet.fbx.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\3D Models\Guns.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\Guns.meta
+      projectPath: Assets\3D Models\Guns.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\3D Models\Guns\Fire.anim
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\Guns\Fire.anim
+      projectPath: Assets\3D Models\Guns\Fire.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\3D Models\Guns\Fire.anim.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\Guns\Fire.anim.meta
+      projectPath: Assets\3D Models\Guns\Fire.anim.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\3D Models\Guns\MPL.mat
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\Guns\MPL.mat
+      projectPath: Assets\3D Models\Guns\MPL.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\3D Models\Guns\MPL.mat.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\Guns\MPL.mat.meta
+      projectPath: Assets\3D Models\Guns\MPL.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\3D Models\Guns\MPL.prefab
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\Guns\MPL.prefab
+      projectPath: Assets\3D Models\Guns\MPL.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\3D Models\Guns\MPL.prefab.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\Guns\MPL.prefab.meta
+      projectPath: Assets\3D Models\Guns\MPL.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\3D Models\Guns\MPLAnimator.controller
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\Guns\MPLAnimator.controller
+      projectPath: Assets\3D Models\Guns\MPLAnimator.controller
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\3D Models\Guns\MPLAnimator.controller.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\Guns\MPLAnimator.controller.meta
+      projectPath: Assets\3D Models\Guns\MPLAnimator.controller.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\3D Models\Guns\MachineGun 1.fbx
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\Guns\MachineGun
+        1.fbx
+      projectPath: Assets\3D Models\Guns\MachineGun 1.fbx
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\3D Models\Guns\MachineGun 1.fbx.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\Guns\MachineGun
+        1.fbx.meta
+      projectPath: Assets\3D Models\Guns\MachineGun 1.fbx.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\3D Models\Guns\TriggerBack.anim
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\Guns\TriggerBack.anim
+      projectPath: Assets\3D Models\Guns\TriggerBack.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\3D Models\Guns\TriggerBack.anim.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\Guns\TriggerBack.anim.meta
+      projectPath: Assets\3D Models\Guns\TriggerBack.anim.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\3D Models\Guns\TriggerForward.anim
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\Guns\TriggerForward.anim
+      projectPath: Assets\3D Models\Guns\TriggerForward.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\3D Models\Guns\TriggerForward.anim.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\Guns\TriggerForward.anim.meta
+      projectPath: Assets\3D Models\Guns\TriggerForward.anim.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\3D Models\KeyCard.controller
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\KeyCard.controller
+      projectPath: Assets\3D Models\KeyCard.controller
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\3D Models\KeyCard.controller.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\KeyCard.controller.meta
+      projectPath: Assets\3D Models\KeyCard.controller.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\3D Models\Monster.prefab
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\Monster.prefab
+      projectPath: Assets\3D Models\Monster.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\3D Models\Monster.prefab.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\Monster.prefab.meta
+      projectPath: Assets\3D Models\Monster.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\3D Models\MuzzleFlare.prefab
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\MuzzleFlare.prefab
+      projectPath: Assets\3D Models\MuzzleFlare.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\3D Models\MuzzleFlare.prefab.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\MuzzleFlare.prefab.meta
+      projectPath: Assets\3D Models\MuzzleFlare.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\3D Models\Player.prefab
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\Player.prefab
+      projectPath: Assets\3D Models\Player.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\3D Models\Player.prefab.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\Player.prefab.meta
+      projectPath: Assets\3D Models\Player.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\3D Models\Spin.anim
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\Spin.anim
+      projectPath: Assets\3D Models\Spin.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\3D Models\Spin.anim.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\Spin.anim.meta
+      projectPath: Assets\3D Models\Spin.anim.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\3D Models\Test.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\Test.meta
+      projectPath: Assets\3D Models\Test.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\3D Models\Test\Arms.controller
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\Test\Arms.controller
+      projectPath: Assets\3D Models\Test\Arms.controller
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\3D Models\Test\Arms.controller.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\Test\Arms.controller.meta
+      projectPath: Assets\3D Models\Test\Arms.controller.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\3D Models\Test\Arms.fbx
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\Test\Arms.fbx
+      projectPath: Assets\3D Models\Test\Arms.fbx
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\3D Models\Test\Arms.fbx.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\Test\Arms.fbx.meta
+      projectPath: Assets\3D Models\Test\Arms.fbx.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\3D Models\Test\Boom.anim
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\Test\Boom.anim
+      projectPath: Assets\3D Models\Test\Boom.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\3D Models\Test\Boom.anim.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\Test\Boom.anim.meta
+      projectPath: Assets\3D Models\Test\Boom.anim.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\3D Models\Test\New Material.mat
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\Test\New Material.mat
+      projectPath: Assets\3D Models\Test\New Material.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\3D Models\Test\New Material.mat.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\Test\New Material.mat.meta
+      projectPath: Assets\3D Models\Test\New Material.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\3D Models\Test\Point.anim
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\Test\Point.anim
+      projectPath: Assets\3D Models\Test\Point.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\3D Models\Test\Point.anim.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\Test\Point.anim.meta
+      projectPath: Assets\3D Models\Test\Point.anim.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\CameraController.cs
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\CameraController.cs
+      projectPath: Assets\CameraController.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\CameraController.cs.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\CameraController.cs.meta
+      projectPath: Assets\CameraController.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\ChangeMaterial.cs
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\ChangeMaterial.cs
+      projectPath: Assets\ChangeMaterial.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\ChangeMaterial.cs.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\ChangeMaterial.cs.meta
+      projectPath: Assets\ChangeMaterial.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Cube (3).controller
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Cube (3).controller
+      projectPath: Assets\Cube (3).controller
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Cube (3).controller.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Cube (3).controller.meta
+      projectPath: Assets\Cube (3).controller.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\DisableSelf.cs
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\DisableSelf.cs
+      projectPath: Assets\DisableSelf.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\DisableSelf.cs.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\DisableSelf.cs.meta
+      projectPath: Assets\DisableSelf.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\GiveAmmo.cs
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\GiveAmmo.cs
+      projectPath: Assets\GiveAmmo.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\GiveAmmo.cs.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\GiveAmmo.cs.meta
+      projectPath: Assets\GiveAmmo.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials.meta
+      projectPath: Assets\Materials.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Ammo.controller
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\Ammo.controller
+      projectPath: Assets\Materials\Ammo.controller
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Ammo.controller.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\Ammo.controller.meta
+      projectPath: Assets\Materials\Ammo.controller.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Blue.mat
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\Blue.mat
+      projectPath: Assets\Materials\Blue.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Blue.mat.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\Blue.mat.meta
+      projectPath: Assets\Materials\Blue.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Bob.anim
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\Bob.anim
+      projectPath: Assets\Materials\Bob.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Bob.anim.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\Bob.anim.meta
+      projectPath: Assets\Materials\Bob.anim.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Door Open.anim
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\Door Open.anim
+      projectPath: Assets\Materials\Door Open.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Door Open.anim.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\Door Open.anim.meta
+      projectPath: Assets\Materials\Door Open.anim.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Door.controller
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\Door.controller
+      projectPath: Assets\Materials\Door.controller
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Door.controller.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\Door.controller.meta
+      projectPath: Assets\Materials\Door.controller.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Guns.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\Guns.meta
+      projectPath: Assets\Materials\Guns.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Guns\MachineGunDiffuse.png
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\Guns\MachineGunDiffuse.png
+      projectPath: Assets\Materials\Guns\MachineGunDiffuse.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Guns\MachineGunDiffuse.png.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\Guns\MachineGunDiffuse.png.meta
+      projectPath: Assets\Materials\Guns\MachineGunDiffuse.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Guns\MachineGunNormalGrey.jpg_specular(4).png
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\Guns\MachineGunNormalGrey.jpg_specular(4).png
+      projectPath: Assets\Materials\Guns\MachineGunNormalGrey.jpg_specular(4).png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Guns\MachineGunNormalGrey.jpg_specular(4).png.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\Guns\MachineGunNormalGrey.jpg_specular(4).png.meta
+      projectPath: Assets\Materials\Guns\MachineGunNormalGrey.jpg_specular(4).png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Guns\Materials.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\Guns\Materials.meta
+      projectPath: Assets\Materials\Guns\Materials.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Guns\Materials\MuzzleFlare1.mat
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\Guns\Materials\MuzzleFlare1.mat
+      projectPath: Assets\Materials\Guns\Materials\MuzzleFlare1.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Guns\Materials\MuzzleFlare1.mat.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\Guns\Materials\MuzzleFlare1.mat.meta
+      projectPath: Assets\Materials\Guns\Materials\MuzzleFlare1.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Guns\MuzzleFlare.mat
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\Guns\MuzzleFlare.mat
+      projectPath: Assets\Materials\Guns\MuzzleFlare.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Guns\MuzzleFlare.mat.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\Guns\MuzzleFlare.mat.meta
+      projectPath: Assets\Materials\Guns\MuzzleFlare.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Guns\MuzzleFlare1.png
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\Guns\MuzzleFlare1.png
+      projectPath: Assets\Materials\Guns\MuzzleFlare1.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Guns\MuzzleFlare1.png.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\Guns\MuzzleFlare1.png.meta
+      projectPath: Assets\Materials\Guns\MuzzleFlare1.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Guns\MuzzleFlare2.png
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\Guns\MuzzleFlare2.png
+      projectPath: Assets\Materials\Guns\MuzzleFlare2.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Guns\MuzzleFlare2.png.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\Guns\MuzzleFlare2.png.meta
+      projectPath: Assets\Materials\Guns\MuzzleFlare2.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Guns\Particles.prefab
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\Guns\Particles.prefab
+      projectPath: Assets\Materials\Guns\Particles.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Guns\Particles.prefab.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\Guns\Particles.prefab.meta
+      projectPath: Assets\Materials\Guns\Particles.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Guns\bobbing.anim
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\Guns\bobbing.anim
+      projectPath: Assets\Materials\Guns\bobbing.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Guns\bobbing.anim.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\Guns\bobbing.anim.meta
+      projectPath: Assets\Materials\Guns\bobbing.anim.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Key.controller
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\Key.controller
+      projectPath: Assets\Materials\Key.controller
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Key.controller.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\Key.controller.meta
+      projectPath: Assets\Materials\Key.controller.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\New Material 1.mat
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\New Material 1.mat
+      projectPath: Assets\Materials\New Material 1.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\New Material 1.mat.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\New Material 1.mat.meta
+      projectPath: Assets\Materials\New Material 1.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\New Material.mat
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\New Material.mat
+      projectPath: Assets\Materials\New Material.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\New Material.mat.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\New Material.mat.meta
+      projectPath: Assets\Materials\New Material.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Particles.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\Particles.meta
+      projectPath: Assets\Materials\Particles.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Particles\Dust.mat
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\Particles\Dust.mat
+      projectPath: Assets\Materials\Particles\Dust.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Particles\Dust.mat.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\Particles\Dust.mat.meta
+      projectPath: Assets\Materials\Particles\Dust.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Particles\Dust.prefab
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\Particles\Dust.prefab
+      projectPath: Assets\Materials\Particles\Dust.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Particles\Dust.prefab.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\Particles\Dust.prefab.meta
+      projectPath: Assets\Materials\Particles\Dust.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Particles\ParticleSpawner.prefab
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\Particles\ParticleSpawner.prefab
+      projectPath: Assets\Materials\Particles\ParticleSpawner.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Particles\ParticleSpawner.prefab.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\Particles\ParticleSpawner.prefab.meta
+      projectPath: Assets\Materials\Particles\ParticleSpawner.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Particles\smoke-sprite-png-.png
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\Particles\smoke-sprite-png-.png
+      projectPath: Assets\Materials\Particles\smoke-sprite-png-.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Particles\smoke-sprite-png-.png.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\Particles\smoke-sprite-png-.png.meta
+      projectPath: Assets\Materials\Particles\smoke-sprite-png-.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Test.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\Test.meta
+      projectPath: Assets\Materials\Test.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Test\Sprites.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\Test\Sprites.meta
+      projectPath: Assets\Materials\Test\Sprites.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Test\Sprites\Crossair-M.png
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\Test\Sprites\Crossair-M.png
+      projectPath: Assets\Materials\Test\Sprites\Crossair-M.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Test\Sprites\Crossair-M.png.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\Test\Sprites\Crossair-M.png.meta
+      projectPath: Assets\Materials\Test\Sprites\Crossair-M.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Test\Test.mat
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\Test\Test.mat
+      projectPath: Assets\Materials\Test\Test.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Test\Test.mat.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\Test\Test.mat.meta
+      projectPath: Assets\Materials\Test\Test.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Test\TilePattern.jpg
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\Test\TilePattern.jpg
+      projectPath: Assets\Materials\Test\TilePattern.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Test\TilePattern.jpg.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\Test\TilePattern.jpg.meta
+      projectPath: Assets\Materials\Test\TilePattern.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\spin.anim
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\spin.anim
+      projectPath: Assets\Materials\spin.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\spin.anim.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\spin.anim.meta
+      projectPath: Assets\Materials\spin.anim.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Monster.cs
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Monster.cs
+      projectPath: Assets\Monster.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Monster.cs.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Monster.cs.meta
+      projectPath: Assets\Monster.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Open.anim
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Open.anim
+      projectPath: Assets\Open.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Open.anim.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Open.anim.meta
+      projectPath: Assets\Open.anim.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\OpenDoor.cs
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\OpenDoor.cs
+      projectPath: Assets\OpenDoor.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\OpenDoor.cs.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\OpenDoor.cs.meta
+      projectPath: Assets\OpenDoor.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\PlayerController.cs
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\PlayerController.cs
+      projectPath: Assets\PlayerController.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\PlayerController.cs.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\PlayerController.cs.meta
+      projectPath: Assets\PlayerController.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\credits.txt
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\eula.txt
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Scenes.meta
+      projectPath: Assets\Scenes.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\SampleScene.unity
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\SampleScene.unity.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Scenes\SampleScene.unity.meta
+      projectPath: Assets\Scenes\SampleScene.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\SelfDestruct.cs
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\SelfDestruct.cs
+      projectPath: Assets\SelfDestruct.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\SelfDestruct.cs.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\SelfDestruct.cs.meta
+      projectPath: Assets\SelfDestruct.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sounds.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Sounds.meta
+      projectPath: Assets\Sounds.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sounds\WaltherMPL.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Sounds\WaltherMPL.meta
+      projectPath: Assets\Sounds\WaltherMPL.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sounds\WaltherMPL\DESELECT.WAV
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Sounds\WaltherMPL\DESELECT.WAV
+      projectPath: Assets\Sounds\WaltherMPL\DESELECT.WAV
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sounds\WaltherMPL\DESELECT.WAV.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Sounds\WaltherMPL\DESELECT.WAV.meta
+      projectPath: Assets\Sounds\WaltherMPL\DESELECT.WAV.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sounds\WaltherMPL\DRYFIRE.WAV
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Sounds\WaltherMPL\DRYFIRE.WAV
+      projectPath: Assets\Sounds\WaltherMPL\DRYFIRE.WAV
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sounds\WaltherMPL\DRYFIRE.WAV.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Sounds\WaltherMPL\DRYFIRE.WAV.meta
+      projectPath: Assets\Sounds\WaltherMPL\DRYFIRE.WAV.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sounds\WaltherMPL\FIRE.WAV
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Sounds\WaltherMPL\FIRE.WAV
+      projectPath: Assets\Sounds\WaltherMPL\FIRE.WAV
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sounds\WaltherMPL\FIRE.WAV.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Sounds\WaltherMPL\FIRE.WAV.meta
+      projectPath: Assets\Sounds\WaltherMPL\FIRE.WAV.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sounds\WaltherMPL\RELOAD1.WAV
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Sounds\WaltherMPL\RELOAD1.WAV
+      projectPath: Assets\Sounds\WaltherMPL\RELOAD1.WAV
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sounds\WaltherMPL\RELOAD1.WAV.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Sounds\WaltherMPL\RELOAD1.WAV.meta
+      projectPath: Assets\Sounds\WaltherMPL\RELOAD1.WAV.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sounds\WaltherMPL\RELOAD2.WAV
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Sounds\WaltherMPL\RELOAD2.WAV
+      projectPath: Assets\Sounds\WaltherMPL\RELOAD2.WAV
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sounds\WaltherMPL\RELOAD2.WAV.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Sounds\WaltherMPL\RELOAD2.WAV.meta
+      projectPath: Assets\Sounds\WaltherMPL\RELOAD2.WAV.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sounds\WaltherMPL\RELOAD3.WAV
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Sounds\WaltherMPL\RELOAD3.WAV
+      projectPath: Assets\Sounds\WaltherMPL\RELOAD3.WAV
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sounds\WaltherMPL\RELOAD3.WAV.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Sounds\WaltherMPL\RELOAD3.WAV.meta
+      projectPath: Assets\Sounds\WaltherMPL\RELOAD3.WAV.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sounds\WaltherMPL\SELECT.WAV
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Sounds\WaltherMPL\SELECT.WAV
+      projectPath: Assets\Sounds\WaltherMPL\SELECT.WAV
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sounds\WaltherMPL\SELECT.WAV.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Sounds\WaltherMPL\SELECT.WAV.meta
+      projectPath: Assets\Sounds\WaltherMPL\SELECT.WAV.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sounds\WaltherMPL\SILENCED.WAV
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Sounds\WaltherMPL\SILENCED.WAV
+      projectPath: Assets\Sounds\WaltherMPL\SILENCED.WAV
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sounds\WaltherMPL\SILENCED.WAV.meta
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Sounds\WaltherMPL\SILENCED.WAV.meta
+      projectPath: Assets\Sounds\WaltherMPL\SILENCED.WAV.meta
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 6fa6532802cdd0a135d9e79b8ae393d989888e5d
+    mergeA: 
+    mergeB: 
+    authorName: Glorthiar
+    authorEmail: 38994308+Glorthiar@users.noreply.github.com
+    commitEmail: 38994308+Glorthiar@users.noreply.github.com
+    commitName: Glorthiar
+    summary: Revert "Initial commit"
+    description: "Revert \"Initial commit\"\r\n\r\nThis reverts commit cca0b1142c4ef53f6079f7782d87c253697ec2aa."
+    timeString: 2019-02-23T21:02:07.000-08:00
+    commitTimeString: 2019-02-23T21:02:07.000-08:00
+    changes:
+    - path: .gitattributes
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: .gitignore
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets\.gitignore
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      status: 5
+      staged: 0
+  - commitID: cca0b1142c4ef53f6079f7782d87c253697ec2aa
+    mergeA: 
+    mergeB: 
+    authorName: Glorthiar
+    authorEmail: 38994308+Glorthiar@users.noreply.github.com
+    commitEmail: 38994308+Glorthiar@users.noreply.github.com
+    commitName: Glorthiar
+    summary: Initial commit
+    description: Initial commit
+    timeString: 2019-02-18T23:22:26.000-08:00
+    commitTimeString: 2019-02-18T23:22:26.000-08:00
+    changes:
+    - path: .gitattributes
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: .gitignore
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\.gitignore
+      fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      status: 4
+      staged: 0
